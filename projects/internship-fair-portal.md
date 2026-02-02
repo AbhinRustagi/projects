@@ -1,7 +1,7 @@
 ---
 title: Internship Fair Portal
 date: 2021-02-01
-description: A web-based portal that digitized Delhi University's annual internship fair during COVID-19, enabling 50 companies and 655 students to connect virtually over a two-day event.
+description: A web-based portal that digitized Delhi University's annual internship fair during COVID-19, enabling 50+ companies and 650+ students to connect virtually over a two-day event.
 tags:
   - React
   - Firebase
@@ -10,8 +10,8 @@ tags:
   - Education Technology
 slug: internship-fair-portal
 thumbnail: projects/assets/internship-fair-portal/thumbnail.png
-published: false
-canonical_url: https://www.abhin.dev/projects/internship-fair-portal
+published: true
+canonical_url: https://www.linkedin.com/posts/abhinrustagi_internship-fair-2021-portal-screenshots-activity-6766469207342297088-foKw
 ---
 
 ## TL;DR
@@ -31,6 +31,7 @@ I volunteered to build a complete digital portal that would replicate and enhanc
 The platform featured:
 
 **Student Experience:**
+
 - Registration system with comprehensive profile creation
 - Document upload workflow (resume, admission certificates, proof documents)
 - Real-time application status tracking
@@ -38,6 +39,7 @@ The platform featured:
 - One-click application submission to multiple companies
 
 **Admin Portal:**
+
 - Profile review dashboard for placement cell team
 - Document verification system with approve/reject/hold workflow
 - Bulk profile management capabilities
