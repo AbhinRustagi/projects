@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Internship Fair Portal",
+    "date": "2021-02-01",
+    "slug": "internship-fair-portal",
+    "path": "projects/internship-fair-portal.md",
+    "canonical_url": "https://www.abhin.dev/projects/internship-fair-portal",
+    "description": "A web-based portal that digitized Delhi University's annual internship fair during COVID-19, enabling 50 companies and 655 students to connect virtually over a two-day event.",
+    "tags": [
+      "React",
+      "Firebase",
+      "Cloud Functions",
+      "Event Management",
+      "Education Technology"
+    ],
+    "thumbnail": "projects/assets/internship-fair-portal/thumbnail.png",
+    "published": false
+  }
+]
