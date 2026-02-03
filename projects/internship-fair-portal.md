@@ -11,7 +11,8 @@ tags:
 slug: internship-fair-portal
 thumbnail: projects/assets/internship-fair-portal/thumbnail.png
 published: true
-canonical_url: https://www.linkedin.com/posts/abhinrustagi_internship-fair-2021-portal-screenshots-activity-6766469207342297088-foKw
+canonical_url: https://www.abhin.dev/projects/internship-fair-portal
+web_url: https://www.linkedin.com/posts/abhinrustagi_internship-fair-2021-portal-screenshots-activity-6766469207342297088-foKw
 ---
 
 ## TL;DR

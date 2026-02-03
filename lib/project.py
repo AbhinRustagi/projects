@@ -20,6 +20,8 @@ class Project:
         self.published = metadata.get("published", False)
         self.path = metadata.get("path")
         self.content = content
+        self.github_url = metadata.get("github_url", None)
+        self.web_url = metadata.get("web_url", None)
 
     def __str__(self):
         return f"{self.slug} - {self.date.strftime('%Y-%m-%d')}"
@@ -46,5 +48,7 @@ class Project:
             "description": self.description,
             "tags": self.tags,
             "thumbnail": self.thumbnail,
-            "published": self.published
+            "published": self.published,
+            "github_url": self.github_url,
+            "web_url": self.web_url
         }
