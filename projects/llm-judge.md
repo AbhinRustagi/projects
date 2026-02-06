@@ -14,6 +14,7 @@ thumbnail: projects/assets/llm-judge/thumbnail.png
 published: true
 canonical_url: https://www.abhin.dev/projects/llm-judge
 github_url: https://github.com/AbhinRustagi/llm-judge
+web_url: https://llm-judge-152003550665.australia-southeast1.run.app/
 ---
 
 ## Overview
