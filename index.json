@@ -1,5 +1,105 @@
 [
   {
+    "title": "LLM Judge",
+    "date": "2026-01-30",
+    "slug": "llm-judge",
+    "path": "projects/llm-judge.md",
+    "canonical_url": "https://www.abhin.dev/projects/llm-judge",
+    "description": "An evaluation platform that uses LLMs to score question-answer pairs against custom, domain-specific criteria. Supports multiple providers (OpenAI, Anthropic, Google, DeepSeek) and includes lightweight safety checks for adversarial patterns and bias.",
+    "tags": [
+      "FastAPI",
+      "Next.js",
+      "LLM",
+      "Evaluation",
+      "Python",
+      "TypeScript"
+    ],
+    "thumbnail": "projects/assets/llm-judge/thumbnail.png",
+    "published": true,
+    "github_url": "https://github.com/AbhinRustagi/llm-judge",
+    "web_url": null
+  },
+  {
+    "title": "Eats",
+    "date": "2025-06-01",
+    "slug": "eats",
+    "path": "projects/eats.md",
+    "canonical_url": "https://www.abhin.dev/projects/eats",
+    "description": "A brief description of the project (1-2 sentences)",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "thumbnail": "projects/assets/project-slug/thumbnail.png",
+    "published": false,
+    "github_url": null,
+    "web_url": "https://eats.abhin.dev/"
+  },
+  {
+    "title": "Pub Sub CLI",
+    "date": "2024-09-01",
+    "slug": "pub-sub",
+    "path": "projects/pub-sub.md",
+    "canonical_url": "https://www.abhin.dev/projects/pub-sub-cli",
+    "description": "A brief description of the project (1-2 sentences)",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "thumbnail": "projects/assets/project-slug/thumbnail.png",
+    "published": false,
+    "github_url": null,
+    "web_url": null
+  },
+  {
+    "title": "Photos",
+    "date": "2024-06-01",
+    "slug": "photos",
+    "path": "projects/photos.md",
+    "canonical_url": "https://www.abhin.dev/projects/photos",
+    "description": "A brief description of the project (1-2 sentences)",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "thumbnail": "projects/assets/project-slug/thumbnail.png",
+    "published": false,
+    "github_url": null,
+    "web_url": null
+  },
+  {
+    "title": "Splendor AI Agent",
+    "date": "2024-05-01",
+    "slug": "splendor-ai",
+    "path": "projects/splendor-ai.md",
+    "canonical_url": "https://www.abhin.dev/projects/splendor",
+    "description": "A brief description of the project (1-2 sentences)",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "thumbnail": "projects/assets/project-slug/thumbnail.png",
+    "published": false,
+    "github_url": null,
+    "web_url": null
+  },
+  {
+    "title": "Pacman Heuristic Search",
+    "date": "2024-04-01",
+    "slug": "pacman",
+    "path": "projects/pacman.md",
+    "canonical_url": "https://www.abhin.dev/projects/pacman",
+    "description": "A brief description of the project (1-2 sentences)",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "thumbnail": "projects/assets/project-slug/thumbnail.png",
+    "published": false,
+    "github_url": null,
+    "web_url": null
+  },
+  {
     "title": "Internship Fair Portal",
     "date": "2021-02-01",
     "slug": "internship-fair-portal",
